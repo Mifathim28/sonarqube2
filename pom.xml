@@ -15,6 +15,10 @@
 
 		<app.runtime>4.4.0-20220221</app.runtime>
 		<mule.maven.plugin.version>3.5.4</mule.maven.plugin.version>
+
+  <sonar.organization>mifathim28</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 	</properties>
 
 	<build>
